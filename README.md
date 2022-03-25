@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
-  Skype: kashifjilani 
-  / Email: kashif@softmatics.com 
-  / Cell: +49-176-7040-2183
+-  Skype: kashifjilani 
+-  / Email: kashif@softmatics.com 
+-  / Cell: +49-176-7040-2183
 
 <!---
 kjilani/kjilani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
