@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... ML & DDD
 - 💞️ I’m looking to collaborate on ... Software Architecture
 - 📫 How to reach me ... 
--  &nbsp;&nbsp;&nbsp;Skype: kashifjilani 
+&nbsp;&nbsp;&nbsp;Skype: kashifjilani 
 -  &nbsp;&nbsp;&nbsp;Email: kashif@softmatics.com 
 -  &nbsp;&nbsp;&nbsp;Cell: +49-176-7040-2183
 
